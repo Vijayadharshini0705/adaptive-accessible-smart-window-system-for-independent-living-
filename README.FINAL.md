@@ -10,7 +10,7 @@ The system uses a Rain Drop Sensor and DHT11 Sensor along with an Arduino UNO an
 
 # 
 
-# 2*. Problem Statement*
+# 2. Problem Statement
 
 People with limited mobility may find it difficult to operate conventional windows because they need to reach, grip, and physically move the window. This becomes more challenging during sudden rain, when the window needs to be closed quickly.
 
@@ -70,7 +70,7 @@ We changed the mechanical design and created a small house model with a door mec
 *Stage 6 – Final Prototype:*  
 The modified prototype was developed using the house model, servo motor, Rain Drop Sensor, DHT11 Sensor, Arduino UNO, LCD, buzzer, and LED to demonstrate the proposed concept.
 
-# 8*. Outcome*
+# 8. Outcome
 
 The final prototype demonstrates an accessible and low-effort automatic opening and closing concept. Although our initial window mechanism did not work as planned, we successfully modified the design into a house model with a door mechanism.
 
@@ -80,7 +80,7 @@ The modified prototype helped us demonstrate the main working concept while keep
 
 ![image3](Result.jpg)
 
-# 10*. Conclusion*
+# 10. Conclusion
 
 ACCESS-WIN aims to provide an accessible solution for people who may find it difficult to operate conventional windows manually. The system combines Rain Drop Sensor, DHT11, Arduino UNO, and servo motor to demonstrate automatic environmental monitoring and opening/closing control.
 
