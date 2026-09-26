@@ -22,7 +22,7 @@ Initially, we planned to develop the prototype as a smart window system. Our fir
 
 The Rain Drop Sensor was planned to detect rainfall and control the window automatically. The DHT11 Sensor was included to monitor temperature and humidity conditions.  
 *Schematic diagram:*  
-*![][image1]*
+![image1](Schematicdiagram.png)
 
 # 4\. Prototype Challenge and Design Modification
 
@@ -36,7 +36,7 @@ This design change was an important part of our development process, as we adapt
 
 # Block diagram:
 
-*![][image2]*
+![image2](Blockdiagram.jpg)
 
 # 5\. Sensors and Components Used sensors
 
@@ -78,7 +78,7 @@ The modified prototype helped us demonstrate the main working concept while keep
 
 # 9.Result:
 
-![][image3]
+![image3](
 
 # 10*. Conclusion*
 
