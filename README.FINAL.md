@@ -78,7 +78,7 @@ The modified prototype helped us demonstrate the main working concept while keep
 
 # 9.Result:
 
-![image3](
+![image3](Result.jpg)
 
 # 10*. Conclusion*
 
